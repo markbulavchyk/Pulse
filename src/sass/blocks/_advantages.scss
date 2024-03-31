@@ -34,5 +34,8 @@
         font-weight: 300;
         line-height: 18px;
     }
+    &__text span{
+        color: $main-color;
+    }
 
 }
